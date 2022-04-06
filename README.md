@@ -1,2 +1,2 @@
-# Ejercicios-mod-6
- Ejercicios realizados en clase de Ruby - Módulo 6
+# Ejercicios de la clase Módulo 6
+ Ejercicios realizados durante las clases de ruby.
